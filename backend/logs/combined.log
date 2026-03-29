@@ -850,3 +850,10 @@
 {"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:57:52.622Z"}
 {"body":{"otp":"213529","phone":"+916396387159","purpose":"login"},"level":"error","message":"[7ce48f7f-2b77-457d-99c6-637032ebf5bf] POST /api/v1/auth/verify-otp - relation \"users\" does not exist","stack":"error: relation \"users\" does not exist\n    at /Users/mohdkaif/Downloads/WorkNear-main 2/backend/node_modules/pg/lib/client.js:631:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.verifyOTP (/Users/mohdkaif/Downloads/WorkNear-main 2/backend/src/modules/auth/auth.service.js:47:18)\n    at async /Users/mohdkaif/Downloads/WorkNear-main 2/backend/src/modules/auth/auth.controller.js:14:20","timestamp":"2026-03-29T06:57:52.624Z"}
 {"level":"info","message":"::1 - - [29/Mar/2026:06:57:52 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 500 97 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-29T06:57:52.625Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T09:18:31.884Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T09:18:31.971Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T09:18:31.987Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T09:18:32.003Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T09:18:32.004Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-29T09:18:32.006Z"}
+{"level":"info","message":" WorkNear API running on port 5001 (PID: 74289)","timestamp":"2026-03-29T09:18:32.007Z"}

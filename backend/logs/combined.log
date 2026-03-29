@@ -1,0 +1,852 @@
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:44:30.077Z"}
+{"level":"error","message":"Failed to start server: The server does not support SSL connections","stack":"Error: The server does not support SSL connections\n    at C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async connectDB (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\config\\database.js:24:18)\n    at async bootstrap (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\app.js:121:5)","timestamp":"2026-03-25T02:44:30.170Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:44:46.706Z"}
+{"level":"error","message":"Failed to start server: The server does not support SSL connections","stack":"Error: The server does not support SSL connections\n    at C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async connectDB (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\config\\database.js:24:18)\n    at async bootstrap (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\app.js:121:5)","timestamp":"2026-03-25T02:44:46.796Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:46:52.842Z"}
+{"level":"error","message":"Failed to start server: The server does not support SSL connections","stack":"Error: The server does not support SSL connections\n    at C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async connectDB (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\config\\database.js:24:18)\n    at async bootstrap (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\app.js:121:5)","timestamp":"2026-03-25T02:46:52.932Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:48:10.414Z"}
+{"level":"error","message":"Database connection failed:","timestamp":"2026-03-25T02:48:10.553Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:48:26.870Z"}
+{"level":"error","message":"Database connection failed:","timestamp":"2026-03-25T02:48:26.960Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:49:56.574Z"}
+{"level":"error","message":"Database connection failed: The server does not support SSL connections","timestamp":"2026-03-25T02:49:56.667Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:51:22.984Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T02:51:23.102Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:51:39.664Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T02:51:39.762Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:52:13.799Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T02:52:13.894Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:53:17.899Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T02:53:17.992Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:55:14.221Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T02:55:14.327Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T02:58:03.468Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T02:58:03.565Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T03:01:21.775Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T03:01:21.877Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T03:03:22.606Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T03:03:22.703Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T03:09:18.324Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T03:09:18.429Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T03:18:12.171Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T03:18:12.264Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T03:39:37.861Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T03:39:37.960Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T03:47:55.505Z"}
+{"level":"error","message":"Database connection failed: password authentication failed for user \"worknear\"","timestamp":"2026-03-25T03:47:55.601Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:35:34.055Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:35:34.184Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:35:34.188Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"redis","level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis","stack":"Error: getaddrinfo ENOTFOUND redis\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)","syscall":"getaddrinfo","timestamp":"2026-03-25T07:35:41.370Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"redis","level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis","stack":"Error: getaddrinfo ENOTFOUND redis\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)","syscall":"getaddrinfo","timestamp":"2026-03-25T07:35:44.179Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"redis","level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis","stack":"Error: getaddrinfo ENOTFOUND redis\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)","syscall":"getaddrinfo","timestamp":"2026-03-25T07:35:47.085Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"redis","level":"error","message":"Redis error: getaddrinfo ENOTFOUND redis","stack":"Error: getaddrinfo ENOTFOUND redis\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)","syscall":"getaddrinfo","timestamp":"2026-03-25T07:35:50.087Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:39:59.409Z"}
+{"level":"info","message":"✅ Redis connected","timestamp":"2026-03-25T07:39:59.475Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:39:59.492Z"}
+{"level":"info","message":"✅ Redis connected","timestamp":"2026-03-25T07:39:59.604Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:39:59.606Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:39:59.611Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:39:59.613Z"}
+{"level":"info","message":"✅ Redis connected","timestamp":"2026-03-25T07:39:59.815Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:39:59.818Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:40:20.877Z"}
+{"level":"info","message":"✅ Redis connected","timestamp":"2026-03-25T07:40:20.947Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:40:20.951Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:40:20.976Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:40:20.979Z"}
+{"level":"info","message":"✅ Redis connected","timestamp":"2026-03-25T07:40:21.056Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:40:21.058Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:40:26.115Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T07:40:26.186Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:40:26.191Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:40:26.214Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:40:26.217Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T07:40:26.312Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:40:26.315Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:40:37.611Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T07:40:37.679Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:40:37.684Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:40:37.706Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:40:37.708Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T07:40:37.799Z"}
+{"command":{"args":[],"name":"info"},"level":"error","message":"Redis error: NOAUTH Authentication required.","stack":"ReplyError: NOAUTH Authentication required.\n    at parseError (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:179:12)\n    at parseType (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\redis-parser\\lib\\parser.js:302:14)","timestamp":"2026-03-25T07:40:37.802Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:43:24.307Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T07:43:24.375Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:43:24.402Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:43:24.404Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T07:43:24.405Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T07:43:24.407Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 20580)","timestamp":"2026-03-25T07:43:24.409Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:43:46.957Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T07:43:47.025Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:43:47.052Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:43:47.055Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T07:43:47.056Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T07:43:47.058Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 3436)","timestamp":"2026-03-25T07:43:47.060Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:43:50.587Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T07:43:50.656Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:43:50.683Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:43:50.686Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T07:43:50.687Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T07:43:50.689Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 4144)","timestamp":"2026-03-25T07:43:50.690Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T07:45:22.373Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T07:45:22.441Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T07:45:22.466Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T07:45:22.469Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T07:45:22.470Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T07:45:22.472Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 9408)","timestamp":"2026-03-25T07:45:22.474Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T08:14:31.492Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T08:14:31.618Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T08:14:31.695Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T08:14:31.699Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T08:14:31.702Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T08:14:31.706Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 20656)","timestamp":"2026-03-25T08:14:31.709Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T08:35:47.365Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T08:35:47.507Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T08:35:47.559Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T08:35:47.566Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T08:35:47.569Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T08:35:47.575Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 16556)","timestamp":"2026-03-25T08:35:47.579Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T08:41:38.841Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T08:41:38.966Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T08:41:39.016Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T08:41:39.021Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T08:41:39.023Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T08:41:39.027Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 16500)","timestamp":"2026-03-25T08:41:39.029Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T08:44:26.892Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T08:44:27.023Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T08:44:27.072Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T08:44:27.077Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T08:44:27.079Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T08:44:27.083Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 21840)","timestamp":"2026-03-25T08:44:27.086Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T08:55:13.182Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T08:55:13.327Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T08:55:13.375Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T08:55:13.380Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T08:55:13.382Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T08:55:13.386Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 15748)","timestamp":"2026-03-25T08:55:13.388Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T08:57:03.668Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T08:57:03.796Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T08:57:03.848Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T08:57:03.854Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T08:57:03.856Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T08:57:03.859Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 18144)","timestamp":"2026-03-25T08:57:03.862Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T08:59:41.801Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T08:59:41.927Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T08:59:41.972Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T08:59:41.978Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T08:59:41.979Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T08:59:41.983Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 14640)","timestamp":"2026-03-25T08:59:41.986Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T11:50:45.562Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T11:50:45.637Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T11:50:45.669Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T11:50:45.671Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T11:50:45.672Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T11:50:45.676Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 14604)","timestamp":"2026-03-25T11:50:45.678Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T12:01:15.115Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T12:01:15.184Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T12:01:15.213Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T12:01:15.215Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T12:01:15.216Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T12:01:15.218Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 23776)","timestamp":"2026-03-25T12:01:15.220Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T12:16:14.468Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T12:16:14.544Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T12:16:14.578Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T12:16:14.582Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T12:16:14.583Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T12:16:14.586Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 19072)","timestamp":"2026-03-25T12:16:14.587Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T12:25:25.197Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T12:25:25.267Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T12:25:25.302Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T12:25:25.306Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T12:25:25.307Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T12:25:25.309Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 14932)","timestamp":"2026-03-25T12:25:25.311Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T12:33:07.309Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T12:33:07.381Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T12:33:07.407Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T12:33:07.410Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T12:33:07.411Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T12:33:07.413Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 22424)","timestamp":"2026-03-25T12:33:07.415Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T12:42:23.592Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T12:42:23.663Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T12:42:23.692Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T12:42:23.694Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T12:42:23.695Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T12:42:23.697Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 13568)","timestamp":"2026-03-25T12:42:23.699Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T13:33:10.733Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T13:33:10.808Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T13:33:10.840Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T13:33:10.842Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T13:33:10.844Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T13:33:10.846Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 24212)","timestamp":"2026-03-25T13:33:10.847Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T13:47:55.905Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T13:47:56.036Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T13:47:56.094Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T13:47:56.098Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T13:47:56.100Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T13:47:56.104Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 4880)","timestamp":"2026-03-25T13:47:56.107Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T13:50:31.940Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T13:50:32.074Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T13:50:32.128Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T13:50:32.133Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T13:50:32.136Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T13:50:32.139Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 24608)","timestamp":"2026-03-25T13:50:32.143Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:14:05:54 +0000] \"GET /api/v1/auth/register HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-25T14:05:54.608Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:14:05:54 +0000] \"GET /favicon.ico HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-25T14:05:54.705Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T14:31:22.489Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T14:31:22.641Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T14:31:22.798Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T14:31:22.806Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T14:31:22.808Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T14:31:22.813Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 7208)","timestamp":"2026-03-25T14:31:22.817Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T14:31:23.849Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T14:31:23.991Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T14:31:24.044Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T14:31:24.049Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T14:31:24.051Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T14:31:24.055Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 3628)","timestamp":"2026-03-25T14:31:24.058Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T14:31:26.017Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T14:31:26.157Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T14:31:26.210Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T14:31:26.217Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T14:31:26.219Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T14:31:26.226Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 2208)","timestamp":"2026-03-25T14:31:26.231Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T14:31:27.926Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T14:31:28.032Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T14:31:28.075Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T14:31:28.079Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T14:31:28.081Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T14:31:28.084Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 6832)","timestamp":"2026-03-25T14:31:28.086Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T14:32:15.730Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T14:32:15.825Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T14:32:15.862Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T14:32:15.867Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T14:32:15.868Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T14:32:15.871Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 3240)","timestamp":"2026-03-25T14:32:15.873Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T14:32:36.304Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T14:32:36.405Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T14:32:36.445Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T14:32:36.450Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T14:32:36.451Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T14:32:36.455Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 1804)","timestamp":"2026-03-25T14:32:36.458Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T14:32:37.275Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T14:32:37.377Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T14:32:37.420Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T14:32:37.425Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T14:32:37.426Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T14:32:37.430Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 24676)","timestamp":"2026-03-25T14:32:37.432Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T14:33:26.479Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T14:33:26.613Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T14:33:26.660Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T14:33:26.665Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T14:33:26.668Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T14:33:26.672Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 22384)","timestamp":"2026-03-25T14:33:26.675Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T15:29:18.048Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T15:29:18.125Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T15:29:18.154Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T15:29:18.156Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T15:29:18.157Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T15:29:18.159Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 28644)","timestamp":"2026-03-25T15:29:18.161Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-25T15:30:34.026Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-25T15:30:34.097Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-25T15:30:34.124Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-25T15:30:34.127Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-25T15:30:34.128Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-25T15:30:34.131Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 19164)","timestamp":"2026-03-25T15:30:34.132Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:15:31:08 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 129 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-25T15:31:08.652Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:15:31:25 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 129 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-25T15:31:25.194Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:15:31:39 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 129 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-25T15:31:39.744Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:15:31:44 +0000] \"GET /api/v1/auth/register HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-25T15:31:44.811Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:15:37:47 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 401 88 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-25T15:37:47.680Z"}
+{"body":{"phone":"+919999999999"},"level":"error","message":"[c3721b21-f0ce-4e2a-90eb-5c1d53e741f0] POST /api/v1/auth/send-otp - sendSMS is not a function","stack":"TypeError: sendSMS is not a function\n    at Object.sendOTP (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.service.js:29:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.controller.js:8:5","timestamp":"2026-03-25T15:38:35.266Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:15:38:35 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 500 89 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-25T15:38:35.267Z"}
+{"body":{"phone":"+919999999999"},"level":"error","message":"[88bd8ca5-f7b2-4133-8f95-3c373aa9493b] POST /api/v1/auth/send-otp - sendSMS is not a function","stack":"TypeError: sendSMS is not a function\n    at Object.sendOTP (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.service.js:29:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.controller.js:8:5","timestamp":"2026-03-25T15:38:40.374Z"}
+{"level":"info","message":"::1 - - [25/Mar/2026:15:38:40 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 500 89 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-25T15:38:40.374Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T00:26:11.275Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T00:26:11.469Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T00:26:11.554Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T00:26:11.593Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T00:26:11.595Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T00:26:11.599Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 19964)","timestamp":"2026-03-28T00:26:11.601Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:00:26:52 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 129 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T00:26:52.589Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:40:06 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 129 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:40:06.658Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:43:41 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 85 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:43:41.092Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:43:42 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 85 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:43:42.333Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:43:42 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 85 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:43:42.543Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:43:42 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 85 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:43:42.725Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:43:42 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 400 85 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:43:42.942Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:58:03 +0000] \"POST /api/v1/auth/register/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:58:03.513Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:58:05 +0000] \"POST /api/v1/auth/register/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:58:05.402Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:01:58:05 +0000] \"POST /api/v1/auth/register/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T01:58:05.920Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:00:29 +0000] \"POST /api/v1/auth/register/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:00:29.831Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:04:24 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:04:24.117Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:04:24 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:04:24.987Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:04:25 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:04:25.233Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:04:25 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:04:25.449Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:04:25 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:04:25.737Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:04:26 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:04:26.826Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:04:27 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:04:27.081Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:10:37 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:10:37.378Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:10:39 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:10:39.337Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:12:14 +0000] \"POST /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:12:14.596Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:13:12 +0000] \"GET /api/v1/auth/request-otp HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:13:12.759Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:13:12 +0000] \"GET /favicon.ico HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:13:12.883Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:19:10 +0000] \"POST /api/v1/auth/register/send-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:19:10.947Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:19:11 +0000] \"POST /api/v1/auth/register/send-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:19:11.674Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:19:11 +0000] \"POST /api/v1/auth/register/send-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:19:11.896Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:19:12 +0000] \"POST /api/v1/auth/register/send-otp HTTP/1.1\" 404 27 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:19:12.420Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:19:15 +0000] \"GET /api/v1/auth/register/send-otp HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:19:15.797Z"}
+{"body":{"full_name":"Ubaid","phone":"6945258653","role":"employer"},"level":"error","message":"[af2a538a-e6e7-4232-8f6a-d489cdab1472] POST /api/v1/auth/send-otp - sendSMS is not a function","stack":"TypeError: sendSMS is not a function\n    at Object.sendOTP (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.service.js:29:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.controller.js:8:5","timestamp":"2026-03-28T02:20:26.906Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:20:26 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 500 89 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:20:26.907Z"}
+{"body":{"full_name":"Ubaid","phone":"6945258653","role":"employer"},"level":"error","message":"[4f41d283-6c17-45dc-b300-3aa515194747] POST /api/v1/auth/send-otp - sendSMS is not a function","stack":"TypeError: sendSMS is not a function\n    at Object.sendOTP (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.service.js:29:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.controller.js:8:5","timestamp":"2026-03-28T02:20:28.329Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:20:28 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 500 89 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T02:20:28.331Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:20:36 +0000] \"GET /api/v1/auth/send-otp HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:20:36.458Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:20:41 +0000] \"GET /api/v1/auth/send-otp HTTP/1.1\" 404 27 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:20:41.025Z"}
+{"body":{"full_name":"Ubaid","phone":"6945258653","role":"employer"},"level":"error","message":"[3ca01d4c-42d2-46f6-81e7-006f3b4f8b5a] POST /api/v1/auth/send-otp - sendSMS is not a function","stack":"TypeError: sendSMS is not a function\n    at Object.sendOTP (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.service.js:29:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.controller.js:8:5","timestamp":"2026-03-28T02:20:49.038Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:20:49 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 500 89 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:20:49.039Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:20:50 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 111 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:20:50.557Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:22:27 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 111 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:22:27.625Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:24:35.778Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:24:35.934Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:24:36.016Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T02:24:36.021Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T02:24:36.023Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T02:24:36.026Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 19332)","timestamp":"2026-03-28T02:24:36.030Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:25:08 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 111 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:25:08.882Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:27:00.811Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:27:00.932Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:27:00.976Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T02:27:00.981Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T02:27:00.983Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T02:27:00.986Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 14636)","timestamp":"2026-03-28T02:27:00.989Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:27:11.283Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:27:11.406Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:27:11.456Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T02:27:11.462Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T02:27:11.463Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T02:27:11.468Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 14440)","timestamp":"2026-03-28T02:27:11.471Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:27:15 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 111 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:27:15.417Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:27:16 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 111 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:27:16.495Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:27:16 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 111 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:27:16.829Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:27:25.125Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:27:25.255Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:27:25.301Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T02:27:25.306Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T02:27:25.308Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T02:27:25.311Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 27720)","timestamp":"2026-03-28T02:27:25.314Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:27:31.401Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:27:31.530Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:27:31.575Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T02:27:31.579Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T02:27:31.581Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T02:27:31.585Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 23232)","timestamp":"2026-03-28T02:27:31.588Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:27:36 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:27:36.898Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:12 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:12.940Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:13 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:13.545Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:13 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:13.776Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:13 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:13.968Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:14 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:14.145Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:14 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:14.319Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:14 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:14.568Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:15 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:15.298Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:15 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 429 110 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:15.532Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:29:26.617Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:29:26.744Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:29:26.790Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T02:29:26.794Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T02:29:26.796Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T02:29:26.800Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 25072)","timestamp":"2026-03-28T02:29:26.802Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:27 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:27.504Z"}
+{"body":{"full_name":"Ubaid","otp":"139189","phone":"6945258653","role":"employer"},"level":"error","message":"[6a42b086-38db-46f3-84a7-9d7bc628e9eb] POST /api/v1/auth/verify-otp - relation \"users\" does not exist","stack":"error: relation \"users\" does not exist\n    at C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Object.verifyOTP (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.service.js:45:18)\n    at async C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.controller.js:14:20","timestamp":"2026-03-28T02:29:57.862Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:02:29:57 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 500 97 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T02:29:57.865Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:30:22.581Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:30:22.696Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:30:22.742Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T02:30:22.747Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T02:30:22.748Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T02:30:22.752Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 28380)","timestamp":"2026-03-28T02:30:22.755Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:46:27.154Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:46:27.269Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:46:27.315Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:46:27.320Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:48:25.093Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:48:25.217Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:48:25.268Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:48:25.273Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:48:30.424Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:48:30.551Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:48:30.602Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:48:30.607Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:48:49.232Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:48:49.354Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:48:49.406Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:48:49.412Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:48:51.067Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:48:51.197Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:48:51.251Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:48:51.255Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:48:52.505Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:48:52.633Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:48:52.683Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:48:52.688Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:48:55.883Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:48:56.002Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:48:56.048Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:48:56.054Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:49:02.421Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:49:02.609Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:49:02.657Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:49:02.662Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:49:07.102Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:49:07.228Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:49:07.277Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:49:07.282Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:49:11.039Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:49:11.235Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:49:11.284Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:49:11.289Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:49:17.397Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:49:17.515Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:49:17.561Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:49:17.566Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:50:11.492Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:50:11.615Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:50:11.661Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:50:11.666Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:50:53.952Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:50:54.090Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:50:54.140Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:50:54.146Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:53:26.893Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:53:27.025Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:53:27.077Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:53:27.082Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:53:31.393Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:53:31.532Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:53:31.583Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:54:29.752Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:54:29.891Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:54:29.951Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:54:29.957Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:54:30.895Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:54:31.020Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:54:31.067Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:54:31.071Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:54:32.504Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:54:32.627Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:54:32.671Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:54:32.676Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:56:10.432Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:56:10.560Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:56:10.606Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:56:10.610Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:56:24.241Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:56:24.379Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:56:24.439Z"}
+{"level":"error","message":"Database connection failed: path is not defined","timestamp":"2026-03-28T02:56:24.445Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:56:25.357Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:56:25.482Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:56:25.525Z"}
+{"level":"error","message":"Database connection failed: ENOENT: no such file or directory, open 'C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\database\\schema.sql'","timestamp":"2026-03-28T02:56:25.531Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:56:52.047Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:56:52.173Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:56:52.219Z"}
+{"level":"error","message":"Database connection failed: ENOENT: no such file or directory, open 'C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\database\\schema.sql'","timestamp":"2026-03-28T02:56:52.225Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T02:57:41.839Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T02:57:41.973Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T02:57:42.021Z"}
+{"level":"error","message":"Database connection failed: extension \"postgis\" is not available","timestamp":"2026-03-28T02:57:42.029Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T03:46:01.726Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T03:46:01.881Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T03:46:01.934Z"}
+{"level":"error","message":"Database connection failed: unique constraint on partitioned table must include all partitioning columns","timestamp":"2026-03-28T03:46:02.589Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T03:52:32.202Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T03:52:32.514Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T03:52:32.572Z"}
+{"level":"error","message":"Database connection failed: unique constraint on partitioned table must include all partitioning columns","timestamp":"2026-03-28T03:52:33.537Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T03:53:46.987Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T03:53:47.250Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T03:53:47.354Z"}
+{"level":"error","message":"Database connection failed: unique constraint on partitioned table must include all partitioning columns","timestamp":"2026-03-28T03:53:48.106Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T03:57:09.364Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T03:57:09.628Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T03:57:09.686Z"}
+{"level":"error","message":"Database connection failed: syntax error at or near \"(\"","timestamp":"2026-03-28T03:57:09.697Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:01:47.386Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:01:47.621Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:01:47.681Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T04:01:48.720Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T04:01:48.723Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T04:01:48.728Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 30304)","timestamp":"2026-03-28T04:01:48.731Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:02:40 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:02:40.906Z"}
+{"body":{"full_name":"Ubaid","otp":"888880","phone":"6912563879","role":"employer"},"level":"error","message":"[6e0696ce-553a-4050-9d78-3f91922bb415] POST /api/v1/auth/verify-otp - secretOrPrivateKey must have a value","stack":"Error: secretOrPrivateKey must have a value\n    at module.exports [as sign] (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\node_modules\\jsonwebtoken\\sign.js:111:20)\n    at Object.verifyOTP (C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.service.js:52:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async C:\\Users\\siddi\\Documents\\STUDY MATERIAL\\AMU\\B. Tech\\Semester 8\\Major Project\\WorkNear\\backend\\src\\modules\\auth\\auth.controller.js:14:20","timestamp":"2026-03-28T04:03:02.383Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:03:02 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 500 100 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:03:02.385Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:03:18 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 400 88 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T04:03:18.068Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:06:27.859Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:06:28.025Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:06:28.091Z"}
+{"level":"error","message":"Database connection failed: type \"user_role\" already exists","timestamp":"2026-03-28T04:06:28.101Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:17:27.477Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:17:27.664Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:17:27.728Z"}
+{"level":"error","message":"Database connection failed: syntax error at or near \"NOT\"","timestamp":"2026-03-28T04:17:27.738Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:19:05.963Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:19:06.145Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:19:06.205Z"}
+{"level":"error","message":"Database connection failed: relation \"idx_users_phone\" already exists","timestamp":"2026-03-28T04:19:06.237Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:20:32.233Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:20:32.389Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:20:32.451Z"}
+{"level":"error","message":"Database connection failed: syntax error at or near \"IF\"","timestamp":"2026-03-28T04:20:32.461Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:21:20.253Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:21:20.409Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:21:20.475Z"}
+{"level":"error","message":"Database connection failed: relation \"idx_users_phone\" already exists","timestamp":"2026-03-28T04:21:20.490Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:22:52.346Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:22:52.516Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:22:52.575Z"}
+{"level":"error","message":"Database connection failed: trigger \"trg_users_updated\" for relation \"users\" already exists","timestamp":"2026-03-28T04:22:52.658Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:25:21.671Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:25:21.832Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:25:21.894Z"}
+{"level":"error","message":"Database connection failed: syntax error at or near \"NOT\"","timestamp":"2026-03-28T04:25:21.905Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:28:34.690Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:28:34.850Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:28:34.911Z"}
+{"level":"error","message":"Database connection failed: trigger \"trg_users_updated\" for relation \"users\" already exists","timestamp":"2026-03-28T04:28:34.970Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:30:56.865Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:30:57.076Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:30:57.258Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T04:30:57.267Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T04:30:57.270Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T04:30:57.276Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 9924)","timestamp":"2026-03-28T04:30:57.281Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:31:27 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:31:27.883Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:31:42 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:31:42.826Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:32:16 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:32:16.838Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:32:35 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:32:35.272Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:35:01 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:35:01.471Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:35:29 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:35:29.114Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:51:40 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:51:40.117Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:51:58 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:51:58.367Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T04:52:37.728Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T04:52:37.920Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T04:52:37.979Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T04:52:37.985Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T04:52:37.987Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T04:52:37.992Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 19180)","timestamp":"2026-03-28T04:52:37.996Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:57:34 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:57:34.477Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:57:48 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:57:48.216Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:59:39 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:59:39.214Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:04:59:52 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T04:59:52.038Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:06:11 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T05:06:11.553Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:06:31 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T05:06:31.944Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:20:14 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T05:20:14.945Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:20:25 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T05:20:25.400Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:32:37 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T05:32:37.303Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:32:47 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T05:32:47.310Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:36:47 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T05:36:47.354Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:36:56 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T05:36:56.777Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:40:42 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T05:40:42.888Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:05:40:52 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T05:40:52.595Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:10:39 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:10:39.287Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:10:51 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:10:51.774Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:14:41 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:14:41.966Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:14:52 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:14:52.068Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:28:37 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:28:37.407Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:28:47 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 400 75 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:28:47.316Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:29:11 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:29:11.612Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:29:20 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:29:20.995Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:30:55 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:30:55.473Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:31:06 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:31:06.486Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T06:47:32.989Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T06:47:33.090Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T06:47:33.121Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T06:47:33.123Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T06:47:33.125Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T06:47:33.127Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 9448)","timestamp":"2026-03-28T06:47:33.129Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:48:05 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:48:05.662Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:48:18 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:48:18.144Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:06:48:18 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 201 590 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T06:48:18.168Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T07:08:13.491Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T07:08:13.562Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T07:08:13.592Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T07:08:13.594Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T07:08:13.595Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T07:08:13.598Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 29760)","timestamp":"2026-03-28T07:08:13.599Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T07:50:20.823Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T07:50:20.896Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T07:50:20.922Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T07:50:20.924Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T07:50:20.925Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T07:50:20.928Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 10556)","timestamp":"2026-03-28T07:50:20.931Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:19 +0000] \"GET /api/v1/jobs?status=open&limit=6 HTTP/1.1\" 401 77 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T08:27:19.579Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:19 +0000] \"GET /api/v1/jobs?status=open&limit=4 HTTP/1.1\" 401 77 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T08:27:19.580Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:19 +0000] \"GET /api/v1/categories HTTP/1.1\" 200 - \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T08:27:19.591Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:19 +0000] \"POST /api/v1/auth/refresh-token HTTP/1.1\" 200 478 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T08:27:19.731Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T08:27:19.817Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T08:27:19.824Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T08:27:19.834Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:19 +0000] \"GET /api/v1/jobs?status=open&limit=6 HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T08:27:19.865Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:19 +0000] \"GET /api/v1/jobs?status=open&limit=4 HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36\"","timestamp":"2026-03-28T08:27:19.880Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:49 +0000] \"GET /api/v1/jobs?status=open&category=&city=&page=1&limit=15 HTTP/1.1\" 200 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:27:49.962Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:51 +0000] \"GET /api/v1/bookings?status=pending HTTP/1.1\" 200 2 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:27:51.011Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:51 +0000] \"GET /api/v1/bookings HTTP/1.1\" 200 2 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:27:51.019Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:27:57 +0000] \"GET /api/v1/jobs/nearby?lat=26.94262&lng=81.215928&limit=6 HTTP/1.1\" 200 21 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:27:57.104Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:00 +0000] \"GET /api/v1/notifications HTTP/1.1\" 200 31 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:00.259Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:01 +0000] \"GET /api/v1/payments/wallet HTTP/1.1\" 404 27 \"http://localhost:5173/payments\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:01.179Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:01 +0000] \"GET /api/v1/payments/history HTTP/1.1\" 200 2 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:01.186Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:02 +0000] \"GET /api/v1/users/me HTTP/1.1\" 200 617 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:02.785Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:19 +0000] \"GET /api/v1/categories HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:19.709Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:19 +0000] \"GET /api/v1/jobs?status=open&category=e4d857c4-01ad-4b34-b79a-8993419218b9&city=&page=1&limit=15 HTTP/1.1\" 200 55 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:19.721Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:19 +0000] \"GET /api/v1/jobs?status=open&category=e4d857c4-01ad-4b34-b79a-8993419218b9&city=&page=1&limit=15 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:19.803Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:22 +0000] \"GET /api/v1/jobs?status=open&limit=6 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:22.115Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:22 +0000] \"GET /api/v1/jobs?status=open&limit=4 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:22.124Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:28:28 +0000] \"POST /api/v1/auth/logout HTTP/1.1\" 200 37 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:28:28.937Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:29:50 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:29:50.474Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:30:04 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:30:04.804Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:15 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:15.854Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:26 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:26.610Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:41 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:41.021Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:54 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 211 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:54.379Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:54 +0000] \"POST /api/v1/auth/register HTTP/1.1\" 201 589 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:54.411Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:54 +0000] \"GET /api/v1/categories HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:54.495Z"}
+{"level":"info","message":"Socket connected: F7V-fShLF48hj2giAAAR (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T08:32:54.499Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:54 +0000] \"GET /api/v1/jobs?status=open&limit=6 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:54.512Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:54 +0000] \"GET /api/v1/jobs?status=open&limit=4 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:54.513Z"}
+{"level":"info","message":"Socket connected: 0cDd0t0dS-y0-EJcAAAT (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T08:32:54.516Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:32:58 +0000] \"GET /api/v1/jobs/nearby?lat=26.94262&lng=81.215928&limit=6 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:32:58.306Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:35 +0000] \"GET /api/v1/categories HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:35.678Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:35 +0000] \"GET /api/v1/jobs?status=open&category=&city=&page=1&limit=15 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:35.697Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:35 +0000] \"GET /api/v1/jobs?status=open&category=&city=&page=1&limit=15 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:35.871Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:36 +0000] \"GET /api/v1/bookings HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:36.725Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:36 +0000] \"GET /api/v1/bookings?status=pending HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:36.728Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:37 +0000] \"GET /api/v1/jobs?status=open&limit=6 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:37.528Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:37 +0000] \"GET /api/v1/jobs?status=open&limit=4 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:37.538Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:37 +0000] \"GET /api/v1/jobs/nearby?lat=26.94262&lng=81.215928&limit=6 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:37.632Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:40 +0000] \"GET /api/v1/notifications HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:40.358Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:41 +0000] \"GET /api/v1/payments/wallet HTTP/1.1\" 404 27 \"http://localhost:5173/payments\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:41.255Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:41 +0000] \"GET /api/v1/payments/history HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:41.278Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:37:42 +0000] \"GET /api/v1/users/me HTTP/1.1\" 200 616 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:37:42.615Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T08:51:42.061Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T08:51:42.187Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T08:51:42.232Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T08:51:42.237Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T08:51:42.239Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T08:51:42.243Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 480)","timestamp":"2026-03-28T08:51:42.245Z"}
+{"level":"info","message":"Socket connected: XjuJoV-GZFW3QUuLAAAB (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T08:51:42.378Z"}
+{"level":"info","message":"Socket connected: KFQEMnDsgXxBZHQOAAAD (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T08:51:42.389Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T08:51:45.824Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T08:51:45.945Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T08:51:45.992Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T08:51:45.996Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T08:51:45.998Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T08:51:46.002Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 30088)","timestamp":"2026-03-28T08:51:46.004Z"}
+{"level":"info","message":"Socket connected: 3gXc3Y10ihlt9hvSAAAB (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T08:51:46.367Z"}
+{"level":"info","message":"Socket connected: pVC_fhIJxTkkAtYzAAAD (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T08:51:46.381Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:54:41 +0000] \"GET /api/v1/categories HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:54:41.746Z"}
+{"level":"info","message":"Socket connected: XXTy5bEx_e0garT8AAAG (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T08:54:41.772Z"}
+{"level":"info","message":"Socket connected: rLugM7V352HP2tiCAAAH (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T08:54:41.784Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T08:54:41.834Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T08:54:41.864Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T08:54:41.868Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:54:41 +0000] \"GET /api/v1/jobs?status=open&limit=6 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:54:41.895Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:54:41 +0000] \"GET /api/v1/jobs?status=open&limit=4 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:54:41.925Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:54:42 +0000] \"GET /api/v1/jobs/nearby?lat=26.94262&lng=81.215928&limit=6 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:54:42.003Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:54:49 +0000] \"POST /api/v1/auth/logout HTTP/1.1\" 200 37 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:54:49.952Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:55:04 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:55:04.031Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:08:55:18 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T08:55:18.652Z"}
+{"level":"info","message":"Socket disconnected: rLugM7V352HP2tiCAAAH","timestamp":"2026-03-28T09:13:39.839Z"}
+{"level":"info","message":"Socket disconnected: XXTy5bEx_e0garT8AAAG","timestamp":"2026-03-28T09:13:40.068Z"}
+{"level":"info","message":"Socket disconnected: pVC_fhIJxTkkAtYzAAAD","timestamp":"2026-03-28T09:13:40.300Z"}
+{"level":"info","message":"Socket disconnected: 3gXc3Y10ihlt9hvSAAAB","timestamp":"2026-03-28T09:13:40.362Z"}
+{"level":"info","message":"Socket connected: Lz2FixC34OZ78bJEAAAJ (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:13:41.380Z"}
+{"level":"info","message":"Socket connected: 3FQlTbRSiTA7I4K6AAAM (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:13:41.435Z"}
+{"level":"info","message":"Socket connected: TSrN4ZjYVY6CJamLAAAO (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:13:41.452Z"}
+{"level":"info","message":"Socket connected: Kk-ObGCJisynfWDdAAAP (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:13:41.476Z"}
+{"level":"info","message":"Socket disconnected: 3FQlTbRSiTA7I4K6AAAM","timestamp":"2026-03-28T09:13:47.796Z"}
+{"level":"info","message":"Socket disconnected: Lz2FixC34OZ78bJEAAAJ","timestamp":"2026-03-28T09:13:47.796Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:14:17 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:14:17.919Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:14:29 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:14:29.871Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T09:19:28.274Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T09:19:28.408Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:19:28.461Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T09:19:28.466Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T09:19:28.468Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T09:19:28.472Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 27680)","timestamp":"2026-03-28T09:19:28.477Z"}
+{"level":"info","message":"Socket connected: AnI2-tjIICpUZvOmAAAB (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:19:28.747Z"}
+{"level":"info","message":"Socket connected: l8oxRnICwvG8l32dAAAD (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:19:28.752Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:20:17 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:20:17.449Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:20:34 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:20:34.447Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T09:24:26.462Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T09:24:26.595Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:24:26.640Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T09:24:26.644Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T09:24:26.646Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T09:24:26.649Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 24464)","timestamp":"2026-03-28T09:24:26.652Z"}
+{"level":"info","message":"Socket connected: oSDXSPMajJ1qoobMAAAB (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:24:27.373Z"}
+{"level":"info","message":"Socket connected: XphTd0ZOZPfXOYIuAAAD (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:24:27.378Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:25:02 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:25:02.035Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:25:16 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 215 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:25:16.090Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:25:50 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:25:50.788Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:26:06 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 200 516 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:26:06.769Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:26:06 +0000] \"GET /api/v1/categories HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:26:06.914Z"}
+{"level":"info","message":"Socket connected: O1pdxsch5hb0H-7tAAAG (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:26:06.919Z"}
+{"level":"info","message":"Socket connected: z8x_p0geNJfC3_9fAAAH (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:26:06.928Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:26:06.979Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:26:06.992Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:26:06.994Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:26:06.997Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:26:07 +0000] \"GET /api/v1/jobs?status=open&limit=6 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:26:07.035Z"}
+{"level":"info","message":"::1 - - [28/Mar/2026:09:26:07 +0000] \"GET /api/v1/jobs?status=open&limit=4 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-28T09:26:07.044Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T09:27:27.952Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T09:27:28.091Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:27:28.137Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T09:27:28.141Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T09:27:28.143Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T09:27:28.146Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 11116)","timestamp":"2026-03-28T09:27:28.149Z"}
+{"level":"info","message":"Socket connected: oi5XpO8NaAoU2-X_AAAB (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:28.381Z"}
+{"level":"info","message":"Socket connected: TTl92A9EbsS1889pAAAD (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:28.399Z"}
+{"level":"info","message":"Socket connected: HWBW_KJIFobhZ71IAAAF (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:28.404Z"}
+{"level":"info","message":"Socket connected: jvfhknZSZhF1FhuKAAAH (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:28.422Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T09:27:29.780Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T09:27:29.910Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:27:29.964Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T09:27:29.968Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T09:27:29.970Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T09:27:29.973Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 27952)","timestamp":"2026-03-28T09:27:29.976Z"}
+{"level":"info","message":"Socket connected: QXnz3tH2n7swJchAAAAB (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:30.365Z"}
+{"level":"info","message":"Socket connected: c7mjxNG-IsYy2cF4AAAD (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:30.371Z"}
+{"level":"info","message":"Socket connected: sTkw-aaCP455xPixAAAF (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:31.355Z"}
+{"level":"info","message":"Socket connected: S22-Wi27Z9m3_wcsAAAH (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:31.369Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-28T09:27:39.895Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-28T09:27:40.018Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-28T09:27:40.070Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-28T09:27:40.075Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-28T09:27:40.077Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-28T09:27:40.080Z"}
+{"level":"info","message":" WorkNear API running on port 5000 (PID: 5340)","timestamp":"2026-03-28T09:27:40.083Z"}
+{"level":"info","message":"Socket connected: jhBU60qBcZSqdEfbAAAD (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:40.193Z"}
+{"level":"info","message":"Socket connected: 3ud2tgCV2bVtjkXOAAAE (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:40.196Z"}
+{"level":"info","message":"Socket connected: MGys98UiLnja6DloAAAF (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:40.198Z"}
+{"level":"info","message":"Socket connected: JvFhen7RX6PgEaVDAAAH (User: edbd78d1-8090-45e9-b09b-157feedd0d42)","timestamp":"2026-03-28T09:27:40.203Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:09:13.971Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1122:18)\n    at afterConnectMultiple (node:net:1689:7)","timestamp":"2026-03-29T06:09:14.033Z"}
+{"level":"error","message":"Database connection failed: role \"worknear\" does not exist","timestamp":"2026-03-29T06:09:14.040Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:12:09.343Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1122:18)\n    at afterConnectMultiple (node:net:1689:7)","timestamp":"2026-03-29T06:12:09.408Z"}
+{"level":"error","message":"Database connection failed: role \"worknear\" does not exist","timestamp":"2026-03-29T06:12:09.413Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:12:15.979Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Redis error:","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1122:18)\n    at afterConnectMultiple (node:net:1689:7)","timestamp":"2026-03-29T06:12:16.035Z"}
+{"level":"error","message":"Database connection failed: role \"worknear\" does not exist","timestamp":"2026-03-29T06:12:16.039Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:30:53.224Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:30:53.282Z"}
+{"level":"error","message":"Database connection failed: role \"worknear\" does not exist","timestamp":"2026-03-29T06:30:53.288Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:33:50.109Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:33:50.172Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:33:50.177Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T06:33:50.189Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T06:33:50.190Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:34:00.996Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:34:01.051Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:34:01.055Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T06:34:01.059Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T06:34:01.061Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:35:49.249Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:35:49.308Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:35:49.312Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T06:35:49.316Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T06:35:49.320Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:36:12.357Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:36:12.411Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:36:12.415Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T06:36:12.420Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T06:36:12.420Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-29T06:36:12.422Z"}
+{"level":"info","message":" WorkNear API running on port 5001 (PID: 60452)","timestamp":"2026-03-29T06:36:12.423Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:47:37.091Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:47:37.151Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:47:37.159Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T06:47:37.172Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T06:47:37.173Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-29T06:47:37.174Z"}
+{"level":"info","message":" WorkNear API running on port 5001 (PID: 62279)","timestamp":"2026-03-29T06:47:37.176Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:48:44.225Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:48:44.278Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:48:44.283Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T06:48:44.287Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T06:48:44.287Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-29T06:48:44.289Z"}
+{"level":"info","message":" WorkNear API running on port 5001 (PID: 62338)","timestamp":"2026-03-29T06:48:44.290Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:48:58.883Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:48:58.939Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:48:58.946Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T06:48:58.951Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T06:48:58.953Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-29T06:48:58.955Z"}
+{"level":"info","message":" WorkNear API running on port 5001 (PID: 62508)","timestamp":"2026-03-29T06:48:58.956Z"}
+{"level":"warn","message":"Firebase not initialized — push notifications disabled","timestamp":"2026-03-29T06:51:50.266Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-03-29T06:51:50.322Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:51:50.328Z"}
+{"level":"info","message":"PostgreSQL connected successfully (pool max: 30)","timestamp":"2026-03-29T06:51:50.331Z"}
+{"level":"info","message":"Redis ready","timestamp":"2026-03-29T06:51:50.332Z"}
+{"level":"info","message":"✅ Socket.io initialized","timestamp":"2026-03-29T06:51:50.334Z"}
+{"level":"info","message":" WorkNear API running on port 5001 (PID: 62630)","timestamp":"2026-03-29T06:51:50.335Z"}
+{"level":"info","message":"::1 - - [29/Mar/2026:06:55:08 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-29T06:55:08.673Z"}
+{"body":{"otp":"141832","phone":"6396387159"},"level":"error","message":"[9e2a2aa4-55e2-4de5-9d24-57caeb705af9] POST /api/v1/auth/verify-otp - relation \"users\" does not exist","stack":"error: relation \"users\" does not exist\n    at /Users/mohdkaif/Downloads/WorkNear-main 2/backend/node_modules/pg/lib/client.js:631:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.verifyOTP (/Users/mohdkaif/Downloads/WorkNear-main 2/backend/src/modules/auth/auth.service.js:47:18)\n    at async /Users/mohdkaif/Downloads/WorkNear-main 2/backend/src/modules/auth/auth.controller.js:14:20","timestamp":"2026-03-29T06:57:20.342Z"}
+{"level":"info","message":"::1 - - [29/Mar/2026:06:57:20 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 500 97 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-29T06:57:20.344Z"}
+{"level":"info","message":"::1 - - [29/Mar/2026:06:57:28 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 400 88 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-29T06:57:28.901Z"}
+{"level":"info","message":"::1 - - [29/Mar/2026:06:57:29 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 400 88 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-29T06:57:29.602Z"}
+{"level":"info","message":"::1 - - [29/Mar/2026:06:57:37 +0000] \"POST /api/v1/auth/send-otp HTTP/1.1\" 200 52 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-29T06:57:37.693Z"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-03-29T06:57:52.622Z"}
+{"body":{"otp":"213529","phone":"+916396387159","purpose":"login"},"level":"error","message":"[7ce48f7f-2b77-457d-99c6-637032ebf5bf] POST /api/v1/auth/verify-otp - relation \"users\" does not exist","stack":"error: relation \"users\" does not exist\n    at /Users/mohdkaif/Downloads/WorkNear-main 2/backend/node_modules/pg/lib/client.js:631:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.verifyOTP (/Users/mohdkaif/Downloads/WorkNear-main 2/backend/src/modules/auth/auth.service.js:47:18)\n    at async /Users/mohdkaif/Downloads/WorkNear-main 2/backend/src/modules/auth/auth.controller.js:14:20","timestamp":"2026-03-29T06:57:52.624Z"}
+{"level":"info","message":"::1 - - [29/Mar/2026:06:57:52 +0000] \"POST /api/v1/auth/verify-otp HTTP/1.1\" 500 97 \"http://localhost:5173/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-03-29T06:57:52.625Z"}
